@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/001_create_books.sql" dialect="SQLite" />
+    <file url="file://$PROJECT_DIR$/002_insert_books.sql" dialect="SQLite" />
+    <file url="file://$PROJECT_DIR$/003_add_column_to_books.sql" dialect="SQLite" />
+    <file url="file://$PROJECT_DIR$/004_update_books.sql" dialect="SQLite" />
+    <file url="file://$PROJECT_DIR$/005_create_authors.sql" dialect="SQLite" />
+    <file url="file://$PROJECT_DIR$/006_add_author_id_to_books.sql" dialect="SQLite" />
+    <file url="file://$PROJECT_DIR$/007_insert_authors.sql" dialect="SQLite" />
+    <file url="file://$PROJECT_DIR$/008_update_books_with_authors.sql" dialect="SQLite" />
+  </component>
+</project>
